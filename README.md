@@ -26,7 +26,7 @@ In this task, we will perform Exploratory Data Analysis (EDA) on the 'SampleSupe
    - You can find dashboard [Here](task-1(tsf).pbix) in same respository.
 
 4. **Interpretation:**
-   - dashboard interpretation [here]([Yellow Simple Minimalist Company Business Strategy Presentation.mp4](https://github.com/shravanichandane/TSF-TASK2/blob/main/Yellow%20Simple%20Minimalist%20Company%20Business%20Strategy%20Presentation.mp4))
+   - dashboard interpretation ([Yellow Simple Minimalist Company Business Strategy Presentation.mp4](https://github.com/shravanichandane/TSF-TASK2/blob/main/Yellow%20Simple%20Minimalist%20Company%20Business%20Strategy%20Presentation.mp4)) in the same respository
 
 ## Tools Used
 
